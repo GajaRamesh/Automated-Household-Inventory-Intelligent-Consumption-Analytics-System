@@ -1,4 +1,15 @@
 #  Automated Household Inventory & Intelligent Consumption Analytics System (HI-CAS)
+## Team Details
+
+##SECTION - 8 | BATCH - 
+
+| ID Number  | Name                |
+|------------|----------------------|
+| 2500030379 | G Ramesh             |
+| 2500030517 | Soumya Ranjan Das    |
+| 2500030588 | Kallpalli Himaswetha |
+| 2500030362 | Samala Jahnavi       |
+| 2500090179 | P. Sai Vignesh       |
 
 ## Description
 The **HI-CAS system** is a Python-based project designed to manage household inventory efficiently and provide intelligent consumption analytics.
