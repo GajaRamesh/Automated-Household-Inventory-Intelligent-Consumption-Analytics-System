@@ -1,4 +1,4 @@
-# Automated Household Inventory & Intelligent Consumption Analytics System (HI-CAS)
+#  Automated Household Inventory & Intelligent Consumption Analytics System (HI-CAS)
 
 ## Description
 The **HI-CAS system** is a Python-based project designed to manage household inventory efficiently and provide intelligent consumption analytics.
@@ -25,27 +25,28 @@ It helps users track stock levels, predict refill times, and generate smart reco
 ---
 
 ## Working
-1. User inputs item details
-2. System calculates days left using:
-3. Inventory status is classified:
-- 🔴 Critical (≤ 2 days)
-- 🟡 Low (≤ 5 days)
-- 🟢 Sufficient (> 5 days)
-4. Smart recommendations are generated
+1. User inputs item details  
+2. System calculates:
+   days_left = stock / daily_usage  
+3. Inventory status:
+   - 🔴 Critical (≤ 2 days)
+   - 🟡 Low (≤ 5 days)
+   - 🟢 Sufficient (> 5 days)
+4. Generates smart recommendations  
 
 ---
 
-##  Flowchart
+## Flowchart
 ![Flowchart](flowchart.jpeg)
 
 ---
 
-## 💻 Output
+## Output
 ![Output](outputs.jpeg)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 PY_PROJECT_RAMESH/
 │── project_code.py
 │── flowchart.jpeg
@@ -54,8 +55,16 @@ PY_PROJECT_RAMESH/
 
 ---
 
-## ▶️ How to Run
-1. Open project in VS Code
-2. Run the file:
-   ```bash
-   python project_code.py
+## How to Run
+Run the file using:
+python project_code.py
+
+---
+
+## Concepts Used
+- Functions
+- Classes & Inheritance
+- Conditional Statements
+- User Input Handling
+
+---
