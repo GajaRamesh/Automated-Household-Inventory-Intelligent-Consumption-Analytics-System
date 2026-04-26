@@ -47,11 +47,12 @@ It helps users track stock levels, predict refill times, and generate smart reco
 ---
 
 ## Project Structure
+```text
 PY_PROJECT_RAMESH/
-│── project_code.py
-│── flowchart.jpeg
-│── outputs.jpeg
-│── README.md
+├── project_code.py
+├── flowchart.jpeg
+├── outputs.jpeg
+└── README.md
 
 ---
 
