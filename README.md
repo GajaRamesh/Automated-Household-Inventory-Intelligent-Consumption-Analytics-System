@@ -1,0 +1,1 @@
+# Automated-Household-Inventory-Intelligent-Consumption-Analytics-System
