@@ -1,7 +1,7 @@
 #  Automated Household Inventory & Intelligent Consumption Analytics System (HI-CAS)
 ## Team Details
 
-##SECTION - 8 | BATCH - 
+SECTION - 8 | BATCH - 2
 
 | ID Number  | Name                |
 |------------|----------------------|
